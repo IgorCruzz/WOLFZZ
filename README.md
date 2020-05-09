@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/IgorCruzz/HERO/blob/master/frontend/src/assets/logo.svg" alt="logo" style="margin-left = 50%" />
 </p>
-Aplicação feita para sistema de gerenciamento de academia
+<p align="center">Aplicação feita para sistema de gerenciamento de academia</p>
  <hr />
 :hammer: Tecnologias utilizadas
 
