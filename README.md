@@ -18,7 +18,7 @@
  - :honeybee: Bee-Queue
  - :black_nib: Sucrase
  - :pager: Nodemon
- - :traffic_light: Jest
+
 
  
 
