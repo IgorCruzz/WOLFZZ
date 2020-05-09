@@ -1,7 +1,7 @@
  
 
 <p align="center">
-  <img src="https://github.com/IgorCruzz/WOLFZZ/blob/master/frontend/src/assets/logoauth.png" alt="logo" style="height = 50%" />
+  <img src="https://github.com/IgorCruzz/WOLFZZ/blob/master/frontend/src/assets/logoauth.png" alt="logo" style="height = 50px" />
 </p>
 <p align="center">Aplicação feita para sistema de gerenciamento de academia</p>
  <hr />
