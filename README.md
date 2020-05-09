@@ -11,8 +11,7 @@ Aplicação feita para sistema de gerenciamento de academia
  - :hash:  Express
  - :hash: React
  - :hash: React(redux) 
- - :game_die: Sequelize
- - :bar_chart: Expo
+ - :game_die: Sequelize 
  - :e-mail: Nodemailer
  - :e-mail: MailTrap
  - :game_die: Redis
