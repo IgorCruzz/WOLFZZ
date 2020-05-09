@@ -14,7 +14,7 @@ Aplicação feita para sistema de gerenciamento de academia
  - :game_die: Sequelize
  - :bar_chart: Expo
  - :e-mail: Nodemailer
- - :e-mail: SendGrid
+ - :e-mail: MailTrap
  - :game_die: Redis
  - :honeybee: Bee-Queue
  - :black_nib: Sucrase
